@@ -1,0 +1,16 @@
+{
+  "name": "scientist-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "walshie4",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "scientist": "^1.1.1"
+  }
+}
